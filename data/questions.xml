@@ -1,0 +1,29 @@
+<questions>
+  <question seconds="30">
+    <text>Сколько байт в килобайте?</text>
+    <variants>
+      <variant>1000</variant>
+      <variant>1100</variant>
+      <variant right="true">1024</variant>  
+      <variant>2000</variant>  
+    </variants>
+  </question>
+  <question seconds="30"> 
+    <text>В каком году Гагарин полетел в космос?</text>
+    <variants>
+      <variant>1959</variant>
+      <variant>1964</variant>
+      <variant right="true">1961</variant>
+      <variant>1962</variant>
+    </variants>
+  </question>
+  <question seconds="30">
+    <text>Сколько дней в высокосном году?</text>
+    <variants>
+      <variant>364</variant>
+      <variant>365</variant>
+      <variant right="true">366</variant>
+      <variant>367</variant>
+    </variants>    
+  </question>
+</questions>
